@@ -19,10 +19,12 @@
 
   &__link {
     padding: 23px 0;
-    
+
     text-decoration: none;
     color: #000;
     text-transform: uppercase;
+    transition: all 400ms;
+
   }
 
   &__link:hover {
